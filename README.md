@@ -1,2 +1,2 @@
 # CryptoFinanceQuant
-Tecnias Quantitativas de Gestão de Criptoassets
+Tecnias Quantitativas de Investi em criptoativos
